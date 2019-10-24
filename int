@@ -1,0 +1,68 @@
+<!-- BEGIN (write your solution here) -->
+<!DOCTYPE HTML>
+<head>
+<meta charset="utf-8">
+<title>Биография</title>
+<link rel="stylesheet" href="bio.css">
+
+</head>
+
+
+<body>
+
+
+  
+<div id="header">
+<h1> Дмитрий Губин</h1>
+<h3> Junior программист-разработчик</h3>
+<p> <a href="mailto:guubbin@mail.ru">guubbin@mail.ru</a> , <a href="vk.com/gatquest"> vk.com/gatquest </a> </p>
+</div>
+
+<div id="main">
+ Я сейчас работаю и параллельно изучаю программирование.
+ <section>
+ <h2>Опыт работы</h2>
+ <h3>Торговый агент.</h3>
+ В донецке
+ <ul>
+	<li> Ведение базы клиентов </li>
+	<li> Логистика </li>
+ </ul>
+ <h3>Программист.</h3>
+ В москве
+ <ul>
+	<li> Разработка интерфейса </li>
+	<li> Отладка </li>
+ </ul>
+ 
+ </section>
+
+<section>
+ <h2>Образование</h2>
+ <h3>ДонНТУ</h3>
+ Бакалавр управления в технических системах,2014-2018 <br></br>
+ <h3>МИЭТ</h3>
+ Магистр управления в технических системах,2018-2020
+ </section>
+ 
+ <section>
+ <h2>Другие навыки и увлечения</h2>
+
+<ul>
+	<li> Читаю книги </li>
+	<li> Увлекаюсь музыкой</li>
+
+</ul>
+
+ </section>
+ 
+ </div>
+ 
+ <div id="footer">
+ <h3>Губин Дмитрий</h3>
+  г.Москва, +7 919 000 00 00, <a href="mailto:guubbin@mail.ru">guubbin@mail.ru</a>  
+ </div>
+
+</body>
+</HTML>
+<!-- END -->
